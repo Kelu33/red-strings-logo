@@ -1,0 +1,23 @@
+body {
+    background-color:#1B1B1B;
+    overflow: hidden;
+  }
+  
+  body,
+  html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  .container{
+    position:absolute;
+    width:100%;
+   max-width:700px;
+  }
+  
+  svg{
+    width:100%;
+  }
+  
+  
